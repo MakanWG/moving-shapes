@@ -1,6 +1,0 @@
-Properties/launchSettings.json
-Assets/SplashScreen.png
-Assets/Images/Bloom.JPG
-Assets/Images/chromium.JPG
-Assets/Images/Jump.JPG
-Assets/SharedAssets.md
